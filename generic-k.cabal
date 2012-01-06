@@ -1,6 +1,7 @@
 Name:               generic-k
 Version:            0.1.2
 Synopsis:           Lower and raise Haskell values into and out of the K semantic framework
+Homepage:           https://github.com/davidlazar/generic-k
 License:            MIT
 License-file:       LICENSE
 Author:             David Lazar
@@ -10,6 +11,10 @@ Build-type:         Simple
 Cabal-version:      >=1.2
 Extra-source-files:
   README.md
+
+source-repository head
+  Type:             git
+  Location:         https://github.com/davidlazar/generic-k
 
 Library
   Hs-source-dirs:   src
