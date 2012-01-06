@@ -24,4 +24,8 @@ Library
     Data.Generics.K.ToK
     Data.Generics.K.FromK
 
-  Build-depends: base >= 4 && < 5, syb, language-k >= 0.2.0, haskell-src-exts
+  Build-depends:
+    base >= 4 && < 5, 
+    syb,
+    language-k >= 0.2.0,
+    haskell-src-exts
