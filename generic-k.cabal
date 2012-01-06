@@ -4,7 +4,7 @@ Synopsis:           Lower and raise Haskell values into and out of the K semanti
 License:            MIT
 License-file:       LICENSE
 Author:             David Lazar
-Maintainer:         lazar6@illinois.edu
+Maintainer:         David Lazar <lazar6@illinois.edu>
 Category:           Data
 Build-type:         Simple
 Cabal-version:      >=1.2
