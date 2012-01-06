@@ -1,6 +1,9 @@
 Name:               generic-k
 Version:            0.1.2
-Synopsis:           Lower and raise Haskell values into and out of the K semantic framework
+Synopsis:           Convert Haskell values into K terms and vice versa
+Description:        This library provides generic functions that lower
+                    and raise Haskell values into and out of the 
+                    K Semantic Framework.
 Homepage:           https://github.com/davidlazar/generic-k
 License:            MIT
 License-file:       LICENSE
