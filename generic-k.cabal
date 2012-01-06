@@ -10,6 +10,8 @@ Build-type:         Simple
 Cabal-version:      >=1.2
 
 Library
+  Hs-source-dirs:   src
+
   Exposed-modules:
     Data.Generics.K
     Data.Generics.K.ToK
